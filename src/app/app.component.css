@@ -1,0 +1,14 @@
+.login-container {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+  }
+  
+  app-student, app-faculty {
+    width: 45%; /* Adjust the width as needed */
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
